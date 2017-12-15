@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SlRreshGroup.iml" filepath="$PROJECT_DIR$/SlRreshGroup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slrefreshgroup/slrefreshgroup.iml" filepath="$PROJECT_DIR$/slrefreshgroup/slrefreshgroup.iml" />
+    </modules>
+  </component>
+</project>
